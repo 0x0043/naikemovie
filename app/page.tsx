@@ -21,7 +21,7 @@ export default function NaikeMovieWebsite() {
         {/* Hero Content */}
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-black tracking-tighter mb-8 text-gray-100 font-mono">
-            NAIKE
+            Naikay
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 font-light tracking-wide">
             A Thriller That Will Leave You Breathless
@@ -170,7 +170,7 @@ export default function NaikeMovieWebsite() {
       {/* Footer */}
       <footer className="bg-black py-8 px-4 border-t border-gray-800">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-gray-500 text-sm">© 2024 Naike The Movie. All Rights Reserved.</p>
+          <p className="text-gray-500 text-sm">© 2024 Naikay The Movie. All Rights Reserved.</p>
         </div>
       </footer>
     </div>

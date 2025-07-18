@@ -68,7 +68,7 @@ export default function NaikeMovieWebsite() {
             <div className="text-center group">
               <div className="relative w-48 h-48 mx-auto mb-6">
                 <Image
-                  src="/placeholder.svg?height=192&width=192"
+                  src="/umesh.png?height=192&width=192"
                   alt="Umesh Gurung"
                   fill
                   className="rounded-full object-cover transition-all duration-300"
@@ -83,7 +83,7 @@ export default function NaikeMovieWebsite() {
             <div className="text-center group">
               <div className="relative w-48 h-48 mx-auto mb-6">
                 <Image
-                  src="/placeholder.svg?height=192&width=192"
+                  src="/urmila.png?height=192&width=192"
                   alt="Urmila Gurung"
                   fill
                   className="rounded-full object-cover transition-all duration-300"
@@ -154,7 +154,7 @@ export default function NaikeMovieWebsite() {
             <div className="bg-gray-900 p-6 rounded-lg text-center">
               <div className="relative w-32 h-32 mx-auto mb-4">
                 <Image
-                  src="/tika.png?height=128&width=128"
+                  src="/tikabd.png?height=128&width=128"
                   alt="Tika Bahadur Gurung"
                   fill
                   className="rounded-md object-cover"

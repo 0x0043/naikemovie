@@ -10,7 +10,7 @@ export default function NaikeMovieWebsite() {
         <div className="absolute inset-0">
           <Image
             src="/placeholder.svg?height=1080&width=1920"
-            alt="Naike Movie Poster - Dark atmospheric scene"
+            alt="Naikay Movie Poster"
             fill
             className="object-cover"
             priority
@@ -21,7 +21,7 @@ export default function NaikeMovieWebsite() {
         {/* Hero Content */}
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-black tracking-tighter mb-8 text-gray-100 font-mono">
-            Naikay
+            NAIKAY
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 font-light tracking-wide">
             A Thriller That Will Leave You Breathless

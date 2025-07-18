@@ -112,7 +112,7 @@ export default function NaikeMovieWebsite() {
             <div className="bg-gray-900 p-6 rounded-lg text-center">
               <div className="relative w-32 h-32 mx-auto mb-4">
                 <Image
-                  src="/placeholder.svg?height=128&width=128"
+                  src="/binay.jpg?height=128&width=128"
                   alt="Binay Chaudhary"
                   fill
                   className="rounded-md object-cover"
@@ -126,7 +126,7 @@ export default function NaikeMovieWebsite() {
             <div className="bg-gray-900 p-6 rounded-lg text-center">
               <div className="relative w-32 h-32 mx-auto mb-4">
                 <Image
-                  src="/placeholder.svg?height=128&width=128"
+                  src="/chandrabd.jpg?height=128&width=128"
                   alt="Chandra Bahadur Rawat"
                   fill
                   className="rounded-md object-cover"
@@ -140,7 +140,7 @@ export default function NaikeMovieWebsite() {
             <div className="bg-gray-900 p-6 rounded-lg text-center">
               <div className="relative w-32 h-32 mx-auto mb-4">
                 <Image
-                  src="/placeholder.svg?height=128&width=128"
+                  src="/sagar.jpg?height=128&width=128"
                   alt="Sagar Sapkota"
                   fill
                   className="rounded-md object-cover"
@@ -154,7 +154,7 @@ export default function NaikeMovieWebsite() {
             <div className="bg-gray-900 p-6 rounded-lg text-center">
               <div className="relative w-32 h-32 mx-auto mb-4">
                 <Image
-                  src="/placeholder.svg?height=128&width=128"
+                  src="/tika.png?height=128&width=128"
                   alt="Tika Bahadur Gurung"
                   fill
                   className="rounded-md object-cover"
